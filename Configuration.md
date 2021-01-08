@@ -1,5 +1,12 @@
 # Configurazione Router Cisco :computer:
 
+## Comandi primari<br>
+>Router>enable
+>
+>Router# show version
+>
+>Router# configure terminal
+
 [HOSTNAME](#HOSTNAME)<br>
 [PROTEZIONE USER EXEC](#PROTEZIONE-USER-EXEC)<br>
 [PROTEZIONE PRIVILEGED EXEC](#PROTEZIONE-PRIVILEGED-EXEC)<br>
